@@ -9,10 +9,10 @@
   "author": "Robert Klep <robert@klep.name>",
   "license": "MIT",
   "dependencies": {
-    "async-mqtt": "^2.6.3",
     "jsonpath": "^1.1.1",
-    "mailparser": "^3.6.4",
-    "smtp-server": "^3.11.0",
-    "yaml": "^2.2.1"
+    "mailparser": "^3.7.1",
+    "mqtt": "^5.10.0",
+    "smtp-server": "^3.13.4",
+    "yaml": "^2.5.0"
   }
 }
